@@ -1,5 +1,5 @@
 // // apiKey
-// // b207d17bb083b7cbe6641ad021ac3b19-us21
+// // a7b724cd787310d1259fca11e9424f90-us21
 
 // // audience_id
 // // 6bd4920d8d
@@ -13,7 +13,7 @@
  const mailchimp = require("@mailchimp/mailchimp_marketing");
  // Mailchimp Configuration
  mailchimp.setConfig({
-     apiKey:"b207d17bb083b7cbe6641ad021ac3b19-us21",
+     apiKey:"a7b724cd787310d1259fca11e9424f90-us21",
      server:"us21"
  })
  // Installing Plugins to Express.js
